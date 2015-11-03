@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.pdb

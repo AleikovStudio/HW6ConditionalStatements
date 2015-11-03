@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\07NumbersWithNestedIfs\bin\Debug\07NumbersWithNestedIfs.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\07NumbersWithNestedIfs\obj\Debug\07NumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\07NumbersWithNestedIfs\bin\Debug\07NumbersWithNestedIfs.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\07NumbersWithNestedIfs\bin\Debug\07NumbersWithNestedIfs.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\07NumbersWithNestedIfs\obj\Debug\07NumbersWithNestedIfs.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\07NumbersWithNestedIfs\obj\Debug\07NumbersWithNestedIfs.pdb

@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.pdb

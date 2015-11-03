@@ -1,0 +1,6 @@
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.exe.config
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\02BonusScore\bin\Debug\02BonusScore.pdb
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.csprojResolveAssemblyReference.cache
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.exe
+E:\APP-CREATION\LYNDA.COM\C# Essential Training {AceMerlin}\Exercise Files\02_GettingStarted\HW6ConditionalStatements\02BonusScore\obj\Debug\02BonusScore.pdb
